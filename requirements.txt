@@ -1,0 +1,15 @@
+ipykernel
+pandas
+plotly
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+statsmodels
+scikit-bio
+scipy-stats
+scipy-fft
+scipy-signal
+
