@@ -1,1 +1,1 @@
-This repo is for handson machine learning using python
+This repo is for hands-on machine learning using python
